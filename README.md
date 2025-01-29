@@ -54,7 +54,7 @@ The dashboard includes the following features:
 
 ## Link to the Dashboard
 Explore the interactive dashboard here:  
-[HR Analytics Tableau Dashboard](https://public.tableau.com/app/profile/latha.charuguntla5375/viz/HRAnalyticsDashboard_17337311001730/HRAnalyticsDashboard)  
+[HR Analytics Tableau Dashboard](https://public.tableau.com/app/profile/c.lakshman/viz/HRAnalyticsDashboard_17381755518140/HRAnalyticsDashboard?publish=yes)  
 
 
 ---
